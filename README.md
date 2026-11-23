@@ -1,4 +1,5 @@
 ## Job Application Portal
+
 A Job Application Portal written using HTML, CSS, and JavaScript as frontend with Node.js and Express as backend and MongoDB database.
 
 ## How to Run
@@ -21,3 +22,7 @@ A Job Application Portal written using HTML, CSS, and JavaScript as frontend wit
 ![Employer Dashboard](https://i.imgur.com/sV22GAf.png)
 ### Admin Dashboard
 ![Admin Dashboard](https://i.imgur.com/HLirvmW.png)
+
+## License
+
+© 2026 Ashwin. All Rights Reserved. This repository is made public strictly for portfolio viewing and recruiter evaluation; copying, modifying, or redistributing this code without explicit permission is prohibited.
